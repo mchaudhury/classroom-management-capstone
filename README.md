@@ -13,5 +13,5 @@ A classroom management system where a teacher would be able to keep track of stu
 
 ## Future Features:
 
-* Students can register and log-In and see their one performance reports.
+* Students can register and log-In and see their own performance reports.
 * Students can work on any assignments aimed at improving their performance.
