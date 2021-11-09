@@ -1,5 +1,11 @@
 # classroom-management-capstone
 
+* Item 1
+* Item 2
+* Item 3
+  * Sub Item A
+  * Sub Item B
+
 Idea:
 
 A classroom management system where a teacher would be able to keep track of student behavior and classroom performance throughout the week. The teacher would be able to generate reports of students’ classroom performance and send them to their parents.
